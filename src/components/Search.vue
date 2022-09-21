@@ -23,7 +23,7 @@
           placement="bottom"
           @command="changedata"
         >
-          <span class="el-dropdown-link">
+          <span class="el-dropdown-link cursor">
             <img :src="scdata.img" />
           </span>
           <el-dropdown-menu slot="dropdown">
@@ -126,7 +126,9 @@ img {
   border-radius: 10px;
   background-color: rgb(80, 31, 31);
 }
-
+.cursor {
+  cursor: pointer;
+}
 .box {
   display: flex;
   justify-content: center;
