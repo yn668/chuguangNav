@@ -1,0 +1,548 @@
+[
+    {
+        "name": "触光之家",
+        "en_name": "Recommended",
+        "key": "1",
+        "icon": "glyphicon glyphicon-fire",
+        "web": [
+            {
+                "url": "https://ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/2eab22d4d01cd524.webp",
+                "title": "触光主页",
+                "desc": "触光个人主页集合。"
+            },
+            {
+                "url": "https://app.ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/f2abd8163afc26e6.webp",
+                "title": "触光导航",
+                "key": "1-1",
+                "desc": "收集灵感,保存有用的素材"
+            },
+            {
+                "url": "https://blog.ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/cc9034b8c4f1790a.jpg",
+                "title": "触光博客",
+                "desc": "记录个人工作生活，分享经验技术的个人博客。"
+            },
+            {
+                "url": "https://pan.ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/0a22515d08a52509.webp",
+                "title": "触光云盘",
+                "desc": "介于阿里云搭建的资源分享集合云盘。"
+            },
+            {
+                "url": "https://image.ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/91d0fda83f249ee3.webp",
+                "title": "触光图床",
+                "desc": "免费的个人图床"
+            },
+            {
+                "url": "https://down.ichuguang.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/d537e616a79a0079.webp",
+                "title": "触光资源站",
+                "desc": "资源存储分享，离线下载，永不限速，无限存储的云盘资源"
+            },
+            {
+                "url": "https://ichuguang.com/happy",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/aa98502a26bdfcf2.png",
+                "title": "狂欢一下",
+                "desc": "闲暇之余,狂欢一下"
+            },
+            {
+                "url": "https://ichuguang.com/games/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/6a52213cfaafcdb8.jpg",
+                "title": "触光小游戏",
+                "desc": "一些简单的h5小游戏"
+            }
+        ]
+    },
+    {
+        "name": "论坛资讯",
+        "en_name": "Information",
+        "key": "2",
+        "icon": "linecons-doc",
+        "web": [
+            {
+                "url": "https://www.ddml.net/",
+                "logo": "https://www.ddml.net/view/img/logo.png",
+                "title": "刀云网",
+                "desc": "刀云网-云上的日子你我共享"
+            },
+            {
+                "url": "https://tophub.today/",
+                "logo": "https://file.ipadown.com/tophub/assets/images/logo.png",
+                "title": "今日热榜",
+                "desc": "今日热榜提供各站热榜聚合:微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。"
+            },  
+            {
+                "url": "https://news.topurl.cn/",
+                "logo": "https://kf369.cn/usr/uploads/news.png",
+                "title": "每日晨报",
+                "desc": "60秒知天下,读懂天下大事"
+            },
+            {
+                "url": "https://36kr.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/bd693c5e920e3c48.webp",
+                "title": "36kr",
+                "desc": "创业资讯、科技新闻"
+            }, 
+            {
+                "url": "https://www.zaobao.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/fd3c89ce1ddf1e57.webp",
+                "title": "联合早报",
+                "desc": "互联网行业深度阅读与学习平台"
+            },
+            {
+                "url": "https://www.jin10.com/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/0355eb7b36445867.webp",
+                "title": "金十数据",
+                "desc": "获取最新财经政治动态，把握财富机遇"
+            },
+            {
+                "url": "https://yaohuo.me/",
+                "logo": "https://img.ichuguang.com/imgs/2022/02/a2c10d4980f4498e.png",
+                "title": "妖火网",
+                "desc": "妖火网-分享你我"
+            }, 
+            {
+                "url": "https://www.52pojie.cn/",
+                "logo": "https://file.ipadown.com/tophub/assets/images/media/52pojie.cn.png_160x160.png",
+                "title": "吾爱破解论坛",
+                "desc": "吾爱破解论坛致力于软件安全与病毒分析的前沿,丰富的技术版块交相辉映,由无数热衷于软件加密解密及反病毒爱好者共同维护"
+            }, 
+                        {
+                "url": "https://www.appinn.com/",
+                "logo": "https://file.ipadown.com/tophub/assets/images/media/appinn.com.png_160x160.png",
+                "title": "小众软件",
+                "desc": "小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站"
+            },
+            {
+                "url": "https://www.zhihu.com/",
+                "logo": "https://file.ipadown.com/tophub/assets/images/media/zhihu.com.png_160x160.png",
+                "title": "知乎",
+                "desc": "知乎,分享你新编的故事~"
+            },  
+            {
+                "url": "https://www.tianya.cn/",
+                "logo": "https://file.ipadown.com/tophub/assets/images/media/bbs.tianya.cn.png",
+                "title": "天涯论坛",
+                "desc": "天涯论坛是天涯社区旗下的主打论坛产品,24小时随时更新,荟萃天涯社区新鲜、火热、有趣的内容,你感兴趣的都在这里!"
+            }
+
+        ]
+    }, 
+    {
+        "name": "常用工具",
+        "key": "3",
+        "en_name": "Design Tools",
+        "icon": "linecons-diamond",
+        "children": [
+            {
+                "name": "在线工具",
+                "en_name": "Creative Graphics",
+                "icon": "glyphicon glyphicon-briefcase",
+                "key": "3-1",
+                "web": [
+                    {
+                        "url": "https://tool.aoaostar.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/f5cf8fecbb3cfdb5.webp",
+                        "title": "奥星工具箱",
+                        "desc": "在线工具箱，一些东西简单来实现"
+                    },
+                    {
+                        "url": "https://web.woobx.cn/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/494250fff48fa419.webp",
+                        "title": "一个木涵",
+                        "desc": "一个木涵手机上好用，电脑应该也好用吧"
+                    },
+                    {
+                        "url": "http://www.atoolbox.net/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/ec4d82138215dd03.webp",
+                        "title": "一个工具箱",
+                        "desc": "一个工具箱 - 好用的在线工具都在这里!"
+                    },
+                    {
+                        "url": "http://tool.mkblog.cn/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/e61fe6298195c65e.webp",
+                        "title": "孟坤工具箱",
+                        "desc": "孟坤一个好像大佬吧，经常见他的东西，看见眼熟就拿来看了!"
+                    }
+                ]
+            },
+            {
+                "name": "图形处理",
+                "en_name": "Creative Graphics",
+                "icon": "glyphicon glyphicon-leaf",
+                "key": "3-2",
+                "web": [
+                    {
+                        "url": "https://www.bejson.com/ui/compress_img/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/0d1de9e13e11c935.webp",
+                        "title": "图片压缩",
+                        "desc": "在线图片无损压缩,快速处理无需解释"
+                    },
+                    {
+                        "url": "https://zh.clippingmagic.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/960b4b07aaae3bc1.png",
+                        "title": "小图去底",
+                        "desc": "非商用图片在线去除底色"
+                    },
+                    {
+                        "url": "https://www.gaitubao.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/76ecfc86f5ccf98e.webp",
+                        "title": "改图宝",
+                        "desc": "快速、简单的在线修改图片工具，真的好好用"
+                    },
+                    {
+                        "url": "https://gushu.net.cn/index.php/p/ps-index-index.html",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/51e2da962ab7ba82.webp",
+                        "title": "在线PS",
+                        "desc": "专业精简的在线ps图片照片制作处理软件工具,绿色免安装,免下载,直接在浏览器打开就可用它修正,调整和美化图像"
+                    },
+                    {
+                        "url": "https://www.easygif.tools/#/",
+                        "logo": "https://api.iowen.cn/favicon/easygif.tools.png",
+                        "title": "GIF编辑器",
+                        "desc": "一个免费的在线 GIF 编辑器，纯前端实现的编辑功能"
+                    },
+                    {
+                        "url": "https://www.gaoding.com/koutu",
+                        "logo": "https://api.iowen.cn/favicon/ps.gaoding.com.png",
+                        "title": "稿定抠图",
+                        "desc": "免费在线抠图软件,图片快速换背景-抠白底图"
+                    },
+                    {
+                        "url": "https://photomosh.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/8015242023ae9d28.webp",
+                        "title": "Photomosh",
+                        "desc": "为图片增加失真效果."
+                    },
+                    {
+                        "url": "https://www.iloveimg.com/zh-cn",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/94731214f2d67a25.webp",
+                        "title": "I❤IMG",
+                        "desc": "在线功能强大批量编辑图片的所有工具"
+                    },
+                    {
+                        "url": "https://bigjpg.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/c68af078df66331e.webp",
+                        "title": "AI放大图片",
+                        "desc": "AI人工智能图片放大的东西，免费版可以上传5M图片."
+                    },
+                    {
+                        "url": "https://photofunia.com/cn/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/a8c97de7d798548c.webp",
+                        "title": "PhotoFunla",
+                        "desc": "使用模板快速合成有趣的照片."
+                    }
+                ]
+            },
+            {
+                "name": "短信邮箱",
+                "en_name": "User Interface",
+                "icon": "glyphicon glyphicon-comment",
+                "key": "3-3",
+                "web": [
+                    {
+                        "url": "https://www.moakt.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/84c1f108e743fb97.webp",
+                        "title": "10分钟临时邮箱",
+                        "desc": "免费生成10分钟临时邮箱保护你的隐私"
+                    },
+                    {
+                        "url": "http://24mail.chacuo.net/",
+                        "logo": "https://api.iowen.cn/favicon/xpdf.net.png",
+                        "title": "24小时临时邮箱",
+                        "desc": "免费生成24小时临时邮箱保护你的隐私"
+                    },
+                    {
+                        "url": "https://dropmail.me/zh/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/9e0822196c0db74c.png",
+                        "title": "不会过期临时邮箱",
+                        "desc": "无限收件箱使用周期，不受10分钟限制的临时邮箱"
+                    },
+                    {
+                        "url": "https://mail.ac.id/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/9fa156d34741f2a1.png",
+                        "title": "谷歌微软邮箱",
+                        "desc": "可以注册申请OneDrive 5T 网盘的临时邮箱"
+                    },
+                    {
+                        "url": "http://www.xnsms.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/09/2be3f265d5aac84d.jpg",
+                        "title": "小鸟接码",
+                        "desc": "获取多个国家的手机号码保护你的隐私."
+                    },
+                    {
+                        "url": "https://www.metacnnet.com/index.html",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/18977bd1ba1acb6f.webp",
+                        "title": "快捷云短信平台",
+                        "desc": "获取多个国家的手机号码保护你的隐私."
+                    },
+                    {
+                        "url": "https://www.zusms.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/cdb88bad5ee2d6fd.webp",
+                        "title": "有信云接码平台",
+                        "desc": "获取多个国家的手机号码保护你的隐私"
+                    },
+                    {
+                        "url": "https://www.mianfeijiema.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/92e9acbff1dd5d02.webp",
+                        "title": "免费云接码平台",
+                        "desc": "获取多个国家的手机号码保护你的隐私"
+                    }
+                ]
+            },
+            {
+                "name": "格式转换",
+                "en_name": "Motion Design",
+                "icon": "glyphicon glyphicon-sort",
+                "key": "3-4",
+                "web": [
+                    {
+                        "url": "https://www.alltoall.net/",
+                        "logo": "https://api.iowen.cn/favicon/gitmind.cn.png",
+                        "title": "PDF转换",
+                        "desc": "pdf转word等文件格式转换"
+                    },
+                    {
+                        "url": "https://www.alltoall.net/webm_mp4/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/7893f3d7ca2fd073.webp",
+                        "title": "MP4转换",
+                        "desc": "视频音频格式转换"
+                    },
+                    {
+                        "url": "https://duguang.aliyun.com/experience?type=universal&subtype=general_text#intro",
+                        "logo": "https://api.iowen.cn/favicon/duguang.aliyun.com.png",
+                        "title": "阿里读光图片转文字",
+                        "desc": "阿里达摩院的小玩意，一般吧，说实话这达摩院有点名不副实"
+                    },
+                    {
+                        "url": "https://www.ffkuaidu.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/03/7b71d588fad07a02.webp",
+                        "title": "讯飞快读",
+                        "desc": "文字转语言朗读，还可以一天有不少机会免费，基本够用"
+                    },
+                    {
+                        "url": "https://jianwai.youdao.com/index/",
+                        "logo": "https://api.iowen.cn/favicon/jianwai.youdao.com.png",
+                        "title": "网易见外",
+                        "desc": "它支持每日 2 小时免费体验，支持的黑科技实用功能包括：视频翻译、视频转写、字幕翻译、文档翻译、语音翻译、语音转写、会议同传、图片翻译，每个功能都是非常实用"
+                    },
+                    {
+                        "url": "https://jinaconvert.com/cn/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/0e361bd084b19c34.webp",
+                        "title": "图片格式转换",
+                        "desc": "这里可以转jpg为png等的图片格式转换"
+                    }
+                ]
+            },
+            {
+                "name": "在线美图",
+                "en_name": "Colors",
+                "icon": "glyphicon glyphicon-picture",
+                "key": "3-5",
+                "web": [
+                    {
+                        "url": "https://bz.zzzmh.cn/index/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/441cbfbb747efc92.webp",
+                        "title": "极简壁纸",
+                        "desc": "免费海量电脑桌面壁纸美图、4K超高清、最潮壁纸网站"
+                    },
+                    {
+                        "url": "https://unsplash.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/2ff87eafea451844.webp",
+                        "title": "punsplash",
+                        "desc": "免费正版无版权图片素材库"
+                    },
+                    {
+                        "url": "https://pixabay.com/zh/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/982494025b9ae6db.webp",
+                        "title": "pixabay",
+                        "desc": "免费正版高清图片素材库"
+                    },
+                    {
+                        "url": "https://wallhaven.cc/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/fbc3a9c6af19fd84.webp",
+                        "title": "wallhaven",
+                        "desc": "国际知名的壁纸下载网站"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "音乐视听",
+        "en_name": "Resources",
+        "key": "4",
+        "icon": "linecons-thumbs-up",
+        "children": [
+            {
+                "name": "视频网站",
+                "key": "4-1",
+                "en_name": "Icon",
+                "icon": "glyphicon glyphicon-facetime-video",
+                "web": [
+                    {
+                        "url": "https://v.qq.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/a4b2e37a7be01ded.webp",
+                        "title": "腾讯视频",
+                        "desc": "鹅厂的视频网站，资源比较足，还是不错"
+                    },
+                    {
+                        "url": "https://www.bilibili.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/b3a44c76667f47d1.webp",
+                        "title": "哔哩哔哩",
+                        "desc": "B站，一个学习、娱乐的好地方"
+                    },
+                    {
+                        "url": "https://www.dmys2.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/09/9dd6e690071a006f.jpg",
+                        "title": "大米星球",
+                        "desc": "精品影视，播放也比较快，页面清爽"
+                    },
+                    {
+                        "url": "https://dsxys.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/a2bdd66fd9db8738.webp",
+                        "title": "大师兄影视",
+                        "desc": "最近知名的影视站点,播放速度杠杠的,有APP版本"
+                    },
+                    {
+                        "url": "https://ddys.tv/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/056827d23df21c37.webp",
+                        "title": "低端影视",
+                        "desc": "主大国外高清精品影视资源,播放速度快"
+                    }
+                ]
+            },
+            {
+                "name": "精品音乐",
+                "en_name": "Colors",
+                "icon": "glyphicon glyphicon-music",
+                "key": "4-2",
+                "web": [
+                    {
+                        "url": "http://47.112.23.238/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/c0cc284d96f0431e.webp",
+                        "title": "天天静听",
+                        "desc": "全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网QQ、网易云等六个平台的音乐无损下载，全网音乐无损下载！"
+                    },
+                    {
+                        "url": "https://y.qq.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/f780b2b76d2f98e7.webp",
+                        "title": "QQ音乐",
+                        "desc": "你懂我懂，鹅厂的音乐网站，版权最多的，有钱"
+                    },
+                    {
+                        "url": "https://tonzhon.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/7ab7769938933bba.webp",
+                        "title": "铜钟音乐",
+                        "desc": "一个个人搞得音乐网站，不知道啥时间凉凉"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "学习教程",
+        "en_name": "Tutorial",
+        "key": "5",
+        "icon": "linecons-pencil",
+        "children": [
+            {
+                "name": "马哲有点甜",
+                "key": "5-1",
+                "en_name": "Design Guidelines",
+                "icon": "glyphicon glyphicon-thumbs-up",
+                "web": [
+                    {
+                        "url": "https://pan.ichuguang.com/%E5%9B%BE%E4%B9%A6%E6%96%87%E6%A1%A3/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86(1-7%E5%8D%B7)(6,7%E9%9D%99%E7%81%AB).pdf",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/b07166f20f00ec30.jpg",
+                        "title": "毛泽东选集",
+                        "desc": "此版为1-4及整理修改的第5版，还有静火6-7，让我们学习他的思想，人民万岁!."
+                    },
+                    {
+                        "url": "https://www.xuexi.cn/xxqg.html?id=1cuth7g717f1cuth7g717f1cuth7g717",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/51a7c84c2a65e249.jpg",
+                        "title": "邓小平文选",
+                        "desc": "三起三落，辩证看待"
+                    },
+                    {
+                        "url": "https://www.xuexi.cn/xxqg.html?id=1nq36b0kpnf1nq36b0kpnf1nq36b0kpn",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/cf7cfa3af5fe4859.webp",
+                        "title": "江泽民文集",
+                        "desc": "智慧长者，学识渊博，祝长寿"
+                    },
+                    {
+                        "url": "https://www.xuexi.cn/xxqg.html?id=14re27tc2nf14re27tc2nf14re27tc2n",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/1b9d141f0ef94287.jpg",
+                        "title": "胡锦涛文集",
+                        "desc": "拉萨之虎，忍辱负重，大国博弈，祝安康"
+                    }
+                ]
+            },
+            {
+                "name": "技术网站",
+                "key": "5-2",
+                "en_name": "Video Tutorial",
+                "icon": "glyphicon glyphicon-flag",
+                "web": [
+                    {
+                        "url": "https://www.runoob.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/92f4f829c40ddf07.webp",
+                        "title": "菜鸟教程",
+                        "desc": "人人都知道的技术学习网站，永远保持学习"
+                    },
+                    {
+                        "url": "https://developer.mozilla.org/zh-CN/docs/Web/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/ccc247cb4285ea00.webp",
+                        "title": "MDN文档",
+                        "desc": "前端开发必备之MDN文档"
+                    },
+                    {
+                        "url": "https://github.com",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/eb7b6719a9a273a8.webp",
+                        "title": "GitHub",
+                        "desc": "程序员的大本营"
+                    },
+                    {
+                        "url": "https://git.vu1.cc",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/dc202c5bfe7be535.webp",
+                        "title": "GitHub镜像站",
+                        "desc": "博主搭建的GitHub镜像站点，能防止GitHub抽风"
+                    },
+                    {
+                        "url": "https://g.vu1.cc",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/59c86be0d728eb51.webp",
+                        "title": "Google镜像站",
+                        "desc": "博主搭建的Google镜像站点，让你免魔法，逛谷歌"
+                    },
+                    {
+                        "url": "https://www.imooc.com/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/74b2bc067ad9168b.webp",
+                        "title": "慕课网",
+                        "desc": "程序员的梦工厂（有UI课程）"
+                    },
+                    {
+                        "url": "https://juejin.cn/",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/775b365ce8b12125.webp",
+                        "title": "掘金",
+                        "desc": "稀土掘金，学学技术，听听故事"
+                    },
+                    {
+                        "url": "https://www.githubs.cn/trending",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/9f0cbedf68b2f640.webp",
+                        "title": "GitHub趋势榜",
+                        "desc": "GitHub趋势榜，让你发现好项目"
+                    },
+                    {
+                        "url": "https://www.githubs.cn/top",
+                        "logo": "https://img.ichuguang.com/imgs/2022/02/2f4adb667decd5a8.webp",
+                        "title": "GitHub中文Top排行榜",
+                        "desc": "GitHub中文排行榜，带你发现中文优质项目"
+                    }
+                ]
+            }
+        ]
+    }
+]

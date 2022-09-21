@@ -1,0 +1,50 @@
+.el-menu--popup {
+    z-index: 100;
+    min-width: 0px;
+    border: none;
+    /* padding: 5px 20px; */
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+.el-menu--horizontal .el-menu .el-menu-item {
+    padding: 0 25px;
+}
+.el-menu-item:hover {
+    background: #ecf5ff !important;
+    color: #409eff !important;
+}
+.el-menu-item:last-child {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.el-menu--horizontal .el-menu .el-menu-item, .el-menu--horizontal .el-menu .el-submenu__title {
+    height: 45px;
+    line-height: 45px;
+}
+.el-menu-item{
+   
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+/* .el-input-group__prepend {
+    border-radius: 20px !important;
+    background-color: #fff;
+} */
+/* .el-input-group__prepend {
+    border-radius: 20px !important;
+} */
+.el-input-group__prepend {
+    background-color: #fff;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.el-input-group__append {
+    background-color: #fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.el-menu-item-group__title {
+    padding: 0;
+}
